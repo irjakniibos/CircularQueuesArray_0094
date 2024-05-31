@@ -18,4 +18,6 @@ class Queues{
         cin >> num;
         cout << endl;
     }
+
+    //cek apakah antrian penuh ?
 };
